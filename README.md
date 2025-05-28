@@ -19,7 +19,7 @@
 <!--  ====================  WHAT I'M WORKING ON  ==================== -->
 ### 🛠️ What I’m Working On
 - Diving deep into modern **front-end & back-end** tech:  
-  `HTML` ‧ `CSS` ‧ `JavaScript` ‧ `TypeScript` ‧ `Git` ‧ `npm` ‧ `React` ‧ `PostgreSQL`
+  `HTML` ‧ `CSS` ‧ `JavaScript` ‧ `TypeScript` ‧ `Git` ‧ `npm` ‧ `React` ‧ `PostgreSQL` ‧ `Node.js`
 - I’m developing **website projects to enrich my portfolio**.
 
 <!--  ====================  CONTACT  ==================== -->
