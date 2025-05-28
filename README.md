@@ -60,4 +60,4 @@
 
 <!--  ====================  GITHUB STATS / TOP LANGS  ==================== -->
 ### 📊 GitHub Stats & Most Used Languages
-<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrctnd&layout=compact&theme=nightowlt&hide_border=true" alt="Top Languages" /> </p> 
+<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrctnd&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" /> </p> 
