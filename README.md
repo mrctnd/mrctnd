@@ -1,3 +1,8 @@
+<!-- ====================  DISCLAIMER  ==================== -->
+<p align="center">
+  🚧 <strong>Disclaimer:</strong> I’m currently in the early stages of my learning journey. The technologies listed below represent the tools I’m learning or planning to learn soon — not all of them are ones I’ve mastered yet. Thank you for your understanding!
+</p>
+
 <!--  ====================  HERO SECTION  ==================== -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="25">, I'm Miraç</h1>
 <h3 align="center">A full-stack web-developer-in-training who loves turning ideas into websites</h3>
