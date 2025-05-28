@@ -7,10 +7,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="25">, I'm Miraç</h1>
 <h3 align="center">A full-stack web developer in training who loves turning ideas into websites</h3>
 
-<p align="center">
-  <img src="https://i.imgur.com/HiJARQN.gif" width="100" alt="Coding Illustration"/>
-</p>
-
 ---
 
 <!-- ==================== ABOUT ME ==================== -->
