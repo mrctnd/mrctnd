@@ -8,7 +8,7 @@
 <h3 align="center">A full-stack web developer in training who loves turning ideas into websites</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MiracTandogan/miractandogan/main/assets/coding.gif" width="300" alt="Coding Illustration"/>
+  <img src="https://i.imgur.com/HiJARQN.gif" width="100" alt="Coding Illustration"/>
 </p>
 
 ---
