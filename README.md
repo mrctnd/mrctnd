@@ -50,19 +50,6 @@
 </p>
 
 ---
-
-<!-- ==================== GITHUB STATS ==================== -->
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrctnd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrctnd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrctnd&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
 <!-- ==================== CONTACT ==================== -->
 ### 📫 Contact Me
 
@@ -88,3 +75,14 @@
 </p>
 
 ---
+
+
+<!-- ==================== GITHUB STATS ==================== -->
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrctnd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+</div>
+
+---
+
