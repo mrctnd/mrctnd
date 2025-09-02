@@ -12,7 +12,7 @@
 <!-- ==================== ABOUT ME ==================== -->
 ### 👨‍💻 About Me
 
-- 🎓 I’m a **2<sup>nd</sup>-year** Computer Programming student at **Hacettepe University**  
+- 🎓 I graduated from **Hacettepe University** with an associate degree in Computer Programming.  
 - 💻 Passionate about **full-stack web development** — building everything from UI to database  
 - 🌱 Constantly learning and exploring new technologies  
 - 🎬🎮🚴 I enjoy watching movies, gaming, cycling, exploring outdoors, and meeting new people  
