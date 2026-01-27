@@ -3,8 +3,6 @@
 
 <p align="center">
   Building websites with clean code and modern technologies.
-  <br>
-  Based in Ankara, Turkey.
 </p>
 
 <p align="center">
